@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "243907593615",
+    "project_id": "phoneauthflutter-bc4fd",
+    "storage_bucket": "phoneauthflutter-bc4fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243907593615:android:8598da196eac61c3d7b7fa",
+        "android_client_info": {
+          "package_name": "com.example.otp_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243907593615-8qej1pn980i43havrivvlvrecdacuta4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otp_auth",
+            "certificate_hash": "148f29b502042fc43f02943cb06c437d56d36f28"
+          }
+        },
+        {
+          "client_id": "243907593615-t66nhsq08llrf53g0aobf6clg8vb8nac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB39BVx8cpzQLouXm1jKd1NE_LUSDtRZxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243907593615-t66nhsq08llrf53g0aobf6clg8vb8nac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
