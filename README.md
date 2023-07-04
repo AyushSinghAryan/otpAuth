@@ -6,8 +6,8 @@ This repository contains a Flutter application that demonstrates how to implemen
 
 
 
--![Sample Gif](https://github.com/AyushSinghAryan/otpAuth/assets/100014110/964d90c8-562d-49e4-9aae-5ece5be25581.gif)
-<img src="https://github.com/AyushSinghAryan/otpAuth/assets/100014110/964d90c8-562d-49e4-9aae-5ece5be25581.gif" width="250" height="250"/>
+
+<img src="https://github.com/AyushSinghAryan/otpAuth/assets/100014110/964d90c8-562d-49e4-9aae-5ece5be25581.gif" width="480" height="640"/>
 
 
 
