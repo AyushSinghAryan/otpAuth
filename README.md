@@ -6,7 +6,7 @@ This repository contains a Flutter application that demonstrates how to implemen
 
 
 
-
+https://github.com/AyushSinghAryan/otpAuth/assets/100014110/964d90c8-562d-49e4-9aae-5ece5be25581
 
 Video Link:
 https://github-production-user-asset-621![otpgif](https://github.com/AyushSinghAryan/otpAuth/assets/100014110/964d90c8-562d-49e4-9aae-5ece5be25581)
