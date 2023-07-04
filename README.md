@@ -6,6 +6,7 @@ This repository contains a Flutter application that demonstrates how to implemen
 
 
 https://github-production-user-asset-6210df.s3.amazonaws.com/100014110/250775982-6333aafa-95bd-42c6-a7de-b1922ec3e1b0.gif
+https://github.com/AyushSinghAryan/Time-Treasures/assets/100014110/195f80fe-30b8-4a78-96b3-3bf40f48f6df
 
 
 
