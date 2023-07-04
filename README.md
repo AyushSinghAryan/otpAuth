@@ -5,7 +5,7 @@
 This repository contains a Flutter application that demonstrates how to implement OTP (One-Time Password) authentication using Firebase Authentication. The app allows users to sign in to their accounts using their mobile phone numbers and verifies their identity through OTP verification.
 
 
-https://github.com/AyushSinghAryan/otpAuth/assets/100014110/6333aafa-95bd-42c6-a7de-b1922ec3e1b0
+https://github-production-user-asset-6210df.s3.amazonaws.com/100014110/250775982-6333aafa-95bd-42c6-a7de-b1922ec3e1b0.gif
 
 ## Features
 
