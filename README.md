@@ -28,13 +28,13 @@ To run this application, you need to have the following:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/flutter-otp-auth-app.git
+   git clone https://github.com/AyushSinghAryan/otpAuth
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd flutter-otp-auth-app
+   cd otp-auth
    ```
 
 3. Install the required dependencies:
