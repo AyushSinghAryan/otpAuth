@@ -8,8 +8,9 @@ This repository contains a Flutter application that demonstrates how to implemen
 
 
 
-
-https://github-production-user-asset-6210df.s3.amazonaws.com/100014110/250775982-6333aafa-95bd-42c6-a7de-b1922ec3e1b0.gif
+Video Link:
+https://github-production-user-asset-621![otpgif](https://github.com/AyushSinghAryan/otpAuth/assets/100014110/964d90c8-562d-49e4-9aae-5ece5be25581)
+0df.s3.amazonaws.com/100014110/250775982-6333aafa-95bd-42c6-a7de-b1922ec3e1b0.gif
 
 
 
