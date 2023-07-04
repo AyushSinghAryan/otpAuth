@@ -14,8 +14,14 @@ This repository contains a Flutter application that demonstrates how to implemen
 
 
 
+Screenshots:
 
 
+<img src="https://github.com/AyushSinghAryan/otpAuth/assets/100014110/4a70bbeb-2bc0-4ea9-99c4-40c8507341b1"  width="480" height="800">
+<img src="https://github.com/AyushSinghAryan/otpAuth/assets/100014110/a754b67e-7a0f-4e9c-93b2-7c538607d5cb"  width="480" height="800">
+<img src="https://github.com/AyushSinghAryan/otpAuth/assets/100014110/5dbda9d1-a0ef-4257-b1e2-73e6b3a42fba"  width="480" height="800">
+<img src="https://github.com/AyushSinghAryan/otpAuth/assets/100014110/01ebcb36-58c4-481f-b43d-d27d2b5c6827"  width="480" height="800">
+<img src="https://github.com/AyushSinghAryan/otpAuth/assets/100014110/20f3aeb2-fe49-42c2-8c47-b8e328315862"  width="480" height="800">
 
 
 
